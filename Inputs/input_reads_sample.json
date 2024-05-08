@@ -1,0 +1,49 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": 1001,
+	"service_label": "POST",
+	"api_type": "reads",
+	"Post": {
+		"Post": 1,
+		"PostType": "TEST",
+		"PostOwner": 1,
+		"PostOwnerBusinessPartnerRole": "SHOP",
+		"Description": "Test Post",
+		"LongText": "Test Post Long Text",
+		"Tag1": "",
+		"Tag2": "",
+		"Tag3": "",
+		"Tag4": "",
+		"CreationDate": "",
+		"CreationTime": "",
+		"LastChangeDate": "",
+		"LastChangeTime": "",
+		"IsMarkedForDeletion": null,
+		"HeaderDoc": [
+			{
+				"DocType": "",
+				"DocVersionID": null,
+				"DocID": "",
+				"FileExtension": "",
+				"FileName": "",
+				"FilePath": "",
+				"DocIssuerBusinessPartner": null
+			}
+		],
+		"Friend": [
+			{
+				"Friend": null,
+				"IsMarkedForDeletion": null
+			}
+		]
+	},
+	"api_schema": "DPFMPostReads",
+	"accepter": [
+		"Header"
+	]
+}
